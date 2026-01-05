@@ -19,3 +19,4 @@ python infer_SemanticFusion.py \
     --output_path ./output.jpg
 
 
+# SpectralFusionAnonymous
